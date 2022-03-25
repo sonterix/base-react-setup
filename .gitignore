@@ -1,8 +1,8 @@
 # Compiled output
-/build
-/dist
-/tmp
-/out-tsc
+build
+dist
+tmp
+out-tsc
 
 # Runtime data
 pids
@@ -32,9 +32,9 @@ bower_components
 .idea
 .project
 .classpath
-.c9/
+.c9
 *.launch
-.settings/
+.settings
 *.sublime-workspace
 
 # IDE - VSCode
@@ -58,8 +58,8 @@ yarn-error.log*
 
 
 # Dependency directories
-node_modules/
-jspm_packages/
+node_modules
+jspm_packages
 
 # Optional npm cache directory
 .npm
