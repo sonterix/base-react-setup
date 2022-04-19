@@ -33,6 +33,9 @@
     "plugin:react/jsx-runtime": "off",
     "react/jsx-props-no-spreading": "off",
     "react/no-danger": "off",
+    "react/react-in-jsx-scope": "off",
+    "react/function-component-definition": "off",
+    "no-undef": "off",
     "no-nested-ternary": "off",
   }
 }
